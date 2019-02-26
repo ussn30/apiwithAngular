@@ -1,0 +1,14 @@
+D:\Projects\hello-world\bin\Debug\netcoreapp2.1\hello-world.deps.json
+D:\Projects\hello-world\bin\Debug\netcoreapp2.1\hello-world.runtimeconfig.json
+D:\Projects\hello-world\bin\Debug\netcoreapp2.1\hello-world.runtimeconfig.dev.json
+D:\Projects\hello-world\bin\Debug\netcoreapp2.1\hello-world.dll
+D:\Projects\hello-world\bin\Debug\netcoreapp2.1\hello-world.pdb
+D:\Projects\hello-world\obj\Debug\netcoreapp2.1\hello-world.csprojAssemblyReference.cache
+D:\Projects\hello-world\obj\Debug\netcoreapp2.1\hello-world.csproj.CoreCompileInputs.cache
+D:\Projects\hello-world\obj\Debug\netcoreapp2.1\hello-world.RazorAssemblyInfo.cache
+D:\Projects\hello-world\obj\Debug\netcoreapp2.1\hello-world.RazorAssemblyInfo.cs
+D:\Projects\hello-world\obj\Debug\netcoreapp2.1\hello-world.AssemblyInfoInputs.cache
+D:\Projects\hello-world\obj\Debug\netcoreapp2.1\hello-world.AssemblyInfo.cs
+D:\Projects\hello-world\obj\Debug\netcoreapp2.1\hello-world.RazorTargetAssemblyInfo.cache
+D:\Projects\hello-world\obj\Debug\netcoreapp2.1\hello-world.dll
+D:\Projects\hello-world\obj\Debug\netcoreapp2.1\hello-world.pdb
